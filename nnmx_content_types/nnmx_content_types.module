@@ -1,0 +1,7 @@
+<?php
+/**
+ * @file
+ * Code for the nnmx-content-types feature.
+ */
+
+include_once 'nnmx_content_types.features.inc';
